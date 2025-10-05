@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Exclude Hibernate config
+src/main/resources/hibernate.cfg.xml
